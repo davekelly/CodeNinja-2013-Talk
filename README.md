@@ -1,4 +1,5 @@
 CodeNinja-2013-Talk
 ===================
 
-Front-end dev talk for CodeNinja 2013 Workshop
+Talk for CodeNinja.ie 2013 Workshop on front-end dev
+
